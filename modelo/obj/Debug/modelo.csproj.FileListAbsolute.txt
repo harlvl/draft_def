@@ -1,0 +1,5 @@
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\bin\Debug\modelo.dll
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\bin\Debug\modelo.pdb
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\obj\Debug\modelo.dll
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\obj\Debug\modelo.pdb
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\obj\Debug\modelo.csprojResolveAssemblyReference.cache

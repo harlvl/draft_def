@@ -1,0 +1,7 @@
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\bin\Debug\modelo.dll
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\bin\Debug\modelo.pdb
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\accesoDatos\obj\Debug\accesoDatos.pdb
