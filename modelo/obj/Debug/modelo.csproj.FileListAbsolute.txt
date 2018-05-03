@@ -3,3 +3,9 @@ C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\obj\Debug\modelo.dll
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\obj\Debug\modelo.pdb
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\modelo\obj\Debug\modelo.csprojResolveAssemblyReference.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\modelo\bin\Debug\modelo.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\modelo\bin\Debug\modelo.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\modelo\obj\Debug\modelo.csprojResolveAssemblyReference.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\modelo\obj\Debug\modelo.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\modelo\obj\Debug\modelo.pdb

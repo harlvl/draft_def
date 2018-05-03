@@ -21,5 +21,15 @@ namespace controlador
         {
             return accesoDatos.listar();
         }
+
+        public bool modificar(Persona persona)
+        {
+            return accesoDatos.modificar(persona);
+        }
+
+        public int insertar(Persona persona)
+        {
+            return accesoDatos.insertar(persona);
+        }
     }
 }

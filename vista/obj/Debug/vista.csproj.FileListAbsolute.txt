@@ -14,3 +14,21 @@ C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\vista\b
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\vista\bin\Debug\modelo.dll
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\vista\bin\Debug\modelo.pdb
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\vista\obj\Debug\vista.frmListarPersonas.resources
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\vista.exe.config
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\vista.exe
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\vista.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\controlador.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\modelo.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\accesoDatos.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\controlador.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\modelo.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\accesoDatos.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.csprojResolveAssemblyReference.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.frmListarPersonas.resources
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.frmPrincipal.resources
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.csproj.GenerateResource.Cache
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.exe
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\obj\Debug\vista.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\vista\bin\Debug\MySql.Data.dll

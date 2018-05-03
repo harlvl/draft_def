@@ -7,3 +7,14 @@ C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\control
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\controlador\obj\Debug\controlador.pdb
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\controlador\bin\Debug\modelo.dll
 C:\Users\alulab14\Documents\Visual Studio 2017\Projects\datosEntreFormas\controlador\bin\Debug\modelo.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\controlador.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\controlador.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\accesoDatos.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\modelo.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\accesoDatos.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\modelo.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\obj\Debug\controlador.csprojResolveAssemblyReference.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\obj\Debug\controlador.csproj.CoreCompileInputs.cache
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\obj\Debug\controlador.dll
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\obj\Debug\controlador.pdb
+C:\Users\hlvl\Documents\GitHub\draft_def\controlador\bin\Debug\MySql.Data.dll

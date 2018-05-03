@@ -9,17 +9,25 @@ namespace modelo
     public class Persona
     {
         private int id;
+        private int dni;
         private String nombre;
         private int edad;
 
-        public Persona(String nombre, int edad)
+        public Persona()
+        {
+
+        }
+
+        public Persona(int dni, String nombre, int edad)
         {
             this.nombre = nombre;
             this.edad = edad;
+            this.dni = dni;
         }
 
-        public Persona(int id, String nombre, int edad)
+        public Persona(int dni, String nombre, int edad, int id)
         {
+            this.dni = dni;
             this.id = id;
             this.nombre = nombre;
             this.edad = edad;
@@ -28,5 +36,6 @@ namespace modelo
         public int Id { get => id; set => id = value; }
         public string Nombre { get => nombre; set => nombre = value; }
         public int Edad { get => edad; set => edad = value; }
+        public int Dni { get => dni; set => dni = value; }
     }
 }
